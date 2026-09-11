@@ -10,9 +10,6 @@
 <a id="versão-completa-em-português"></a>
 ## Versão em Português
 
-### Finalidade do repositório
-
-Este repositório centraliza os arquivos de currículo utilizados em processos seletivos, permitindo que recrutadores acessem, baixem e compartilhem a versão mais atualizada dos documentos diretamente pelo GitHub.
 
 ### Estrutura de arquivos
 
@@ -38,17 +35,12 @@ Ambos os arquivos possuem o mesmo conteúdo estrutural (resumo profissional, hab
 | Telefone | (48) 99175-9959 |
 | E-mail | joaovitorolcontrateme@gmail.com |
 | GitHub | [github.com/JoaoVitorOL](https://github.com/JoaoVitorOL) |
-| Portfólio | [portifolio-six-xi-68.vercel.app](https://portifolio-six-xi-68.vercel.app/) |
 | Localização | Criciúma, SC, Brasil |
 
 ---
 
 <a id="full-english-version"></a>
 ## English Version
-
-### Repository purpose
-
-This repository centralizes the resume files used in job applications, allowing recruiters to access, download, and share the most up-to-date version of the documents directly from GitHub.
 
 ### File structure
 
@@ -74,7 +66,6 @@ Both files share the same structural content (professional summary, technical sk
 | Phone | (48) 99175-9959 |
 | Email | joaovitorolcontrateme@gmail.com |
 | GitHub | [github.com/JoaoVitorOL](https://github.com/JoaoVitorOL) |
-| Portfolio | [portifolio-six-xi-68.vercel.app](https://portifolio-six-xi-68.vercel.app/) |
 | Location | Criciúma, SC, Brazil |
 
 ---
