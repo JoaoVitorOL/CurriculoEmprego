@@ -1,17 +1,14 @@
-#  João Vitor de Oliveira Lima
+# João Vitor de Oliveira Lima
 
-##  English Version
-[English Version](#english-version)
+## English Version
+[English Version](#full-english-version)
 
-##  Versão em Português
-[Versão em Português](#versão-em-português) 
-
----
-
-Repositório contendo o currículo profissional de **João Vitor de Oliveira Lima**, Estudante de Engenharia de Software, disponibilizado em duas versões de idioma para candidaturas nacionais e internacionais.
+## Versão em Português
+[Versão em Português](#versão-completa-em-português)
 
 ---
 
+<a id="versão-completa-em-português"></a>
 ## Versão em Português
 
 ### Finalidade do repositório
@@ -47,6 +44,7 @@ Ambos os arquivos possuem o mesmo conteúdo estrutural (resumo profissional, hab
 
 ---
 
+<a id="full-english-version"></a>
 ## English Version
 
 ### Repository purpose
