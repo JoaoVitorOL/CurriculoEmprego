@@ -1,4 +1,3 @@
-# João Vitor de Oliveira Lima
 
 ## English Version
 [English Version](#full-english-version)
